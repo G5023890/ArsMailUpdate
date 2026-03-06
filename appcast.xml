@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss
-  version="2.0"
-  xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-  xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>ArsMail Appcast</title>
-    <link>https://github.com/G5023890/ArsMailUpdate/releases</link>
-    <description>ArsMail update feed</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>ArsMail Appcast</title>
+        <link>https://github.com/G5023890/ArsMailUpdate/releases</link>
+        <description>ArsMail update feed</description>
+        <language>en</language>
+        <item>
+            <title>0.7.4</title>
+            <pubDate>Fri, 06 Mar 2026 16:43:01 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/G5023890/ArsMailUpdate/releases/download/v0.7.4/ArsMail%200.7.4.zip" length="4344033" type="application/octet-stream" sparkle:edSignature="qCpH0C27w4lTUUmfenLjyevxBwcuHT6iS5Phnl0EgOqio+40Em0q4926SI3SpG/CFa3c+lvDGqQd18G+/BKDBA=="/>
+        </item>
+    </channel>
 </rss>
